@@ -2,7 +2,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="64px" height="64px" />
            </p>
 
 ![Stojke's GitHub stats](https://github-readme-stats.vercel.app/api?username=stojk3&show_icons=true&theme=radical)
