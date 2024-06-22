@@ -1,5 +1,7 @@
 <img align="cemter" alt="Coding" width="400" src="header.png">
 
+<h3 align="left">About me</h3>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48px" height="48px" />
