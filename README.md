@@ -1,6 +1,6 @@
 <img align="cemter" alt="Coding" width="400" src="header.png">
 
-<h3 align="left">About me</h3>
+<h3 align="left">🌟 About me</h3>
 <p align="left"></p>
 
 <h3 align="left">🚀 Languages and Tools:</h3>
