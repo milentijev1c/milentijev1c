@@ -10,6 +10,9 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48px" height="48px" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48px" height="48px" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48px" height="48px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="48px" height="48px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="48px" height="48px" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48px" height="48px" />
            </p>
 
 ![Stojke's GitHub stats](https://github-readme-stats.vercel.app/api?username=stojk3&show_icons=true&theme=radical)
