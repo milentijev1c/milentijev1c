@@ -25,4 +25,4 @@
 <h3 align="left">🛠️ Featured Projects</h3>
 <p align="left">Check out my repositories to see what I’ve been working on!</p>
 
-
+![Stojke's GitHub stats](https://github-readme-stats.vercel.app/api?username=stojk3&show_icons=true&theme=radical)
