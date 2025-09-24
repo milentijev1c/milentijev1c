@@ -34,4 +34,4 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-![Stojke's GitHub stats](https://github-readme-stats.vercel.app/api?username=stojk3&show_icons=true&theme=onedark)
+![Milentijevic's GitHub stats](https://github-readme-stats.vercel.app/api?username=milentijev1c&show_icons=true&theme=onedark)
