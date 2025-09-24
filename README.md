@@ -1,5 +1,3 @@
-// <img align="cemter" alt="Coding" width="400" src="header.png">
-
 <h3 align="left">🌟 About me</h3>
 <p align="left">
                 I'm a passionate software developer with a diverse skill set in modern programming languages and tools. My journey in coding is driven by a deep curiosity and a commitment to continuous    learning.
