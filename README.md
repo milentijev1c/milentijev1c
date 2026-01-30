@@ -29,7 +29,3 @@
 
 <h3 align="left">🛠️ Featured Projects</h3>
 <p align="left">Check out my repositories to see what I’ve been working on!</p>
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-![Milentijev1c's GitHub stats](https://github-readme-stats.vercel.app/api?username=milentijev1c&show_icons=true&theme=onedark)
