@@ -19,7 +19,6 @@ I have a lot of hobbies to be honest, but the main ones are home-labbing, graphi
 <details>
   <summary><i>le footer</i></summary>
   
-   *Discord* > stojke.exe <br/>
    *Github* > uhh.. <br/>
    *Mail* >  [at]  <br/>
    *Site* > <i>non-existent rn ;)</i> <br/><br/>
