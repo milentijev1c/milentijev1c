@@ -1,4 +1,4 @@
-![Welcome](img/Welcome - Github.png)
+![Welcome](https://github.com/milentijev1c/milentijev1c/blob/ac142495b9212536708b8fb63cf22ba665f7029b/img/Welcome%20-%20Github.png)
 
 ![Divider](https://imgur.com/a/NxN3MzR)
 
@@ -7,12 +7,12 @@
 
 *f - finished, uf - unfinished, m - mature, s - stable*<br/><br/>
 
-![Divider](https://imgur.com/a/bYotfCY)
+![Divider](https://github.com/milentijev1c/milentijev1c/blob/d644587508ce8874d346f78fae5ae008e5b36f08/img/Stats%20-%20Github.png)
 ![](https://raw.githubusercontent.com/milentijev1c/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/milentijev1c/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/milentijev1c/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/milentijev1c/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![Divider](https://imgur.com/a/28MZ0cA)
+![Divider](https://github.com/milentijev1c/milentijev1c/blob/d644587508ce8874d346f78fae5ae008e5b36f08/img/Line%20-%20Github.png)
 
 <details>
   <summary><i>le footer</i></summary>
