@@ -21,7 +21,7 @@ I have a lot of hobbies to be honest, but the main ones are home-labbing, graphi
   
    *Discord* > stojke.exe <br/>
    *Github* > uhh.. <br/>
-   *Mail* > vaxry [at] vaxry.net <br/>
+   *Mail* >  [at]  <br/>
    *Site* > <i>non-existent rn ;)</i> <br/><br/>
   
    *All graphics on this profile are made by me.*
