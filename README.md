@@ -7,7 +7,7 @@ I have a lot of hobbies to be honest, but the main ones are home-labbing, graphi
 ![Divider](https://github.com/milentijev1c/milentijev1c/blob/5f9a4bdb3091d86f494df725fa3a6c08cec59b4a/img/My%20public%20repos%20-%20Github.png)
 
 
-*f - finished, uf - unfinished, m - mature, s - stable*<br/><br/>
+*f - fragile, t - trusted, bt - battle-tested, l - legacy*<br/><br/>
 
 ![Divider](https://github.com/milentijev1c/milentijev1c/blob/d644587508ce8874d346f78fae5ae008e5b36f08/img/Stats%20-%20Github.png)
 ![](https://raw.githubusercontent.com/milentijev1c/github-stats/master/generated/overview.svg#gh-dark-mode-only)
