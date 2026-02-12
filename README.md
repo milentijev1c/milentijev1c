@@ -5,7 +5,7 @@ I currently own <i>nothing</i>. Software Engineer, working on something serious!
 I have a lot of hobbies to be honest, but the main ones are home-labbing, graphics design and mountain biking..
 
 ![Divider](https://github.com/milentijev1c/milentijev1c/blob/5f9a4bdb3091d86f494df725fa3a6c08cec59b4a/img/My%20public%20repos%20-%20Github.png)
-
+**elektronski-dnevnik** *[ l ]* is a school gradebook, enabling teachers and students to easily access grades, absences, and notes.
 
 *f - fragile, t - trusted, bt - battle-tested, l - legacy*<br/><br/>
 
