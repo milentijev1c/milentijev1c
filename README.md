@@ -1,4 +1,4 @@
-![Welcome](https://imgur.com/a/ChJg5It)
+![Welcome](img/Welcome - Github.png)
 
 ![Divider](https://imgur.com/a/NxN3MzR)
 
