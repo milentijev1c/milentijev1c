@@ -1,8 +1,8 @@
 ![Welcome](https://github.com/milentijev1c/milentijev1c/blob/ac142495b9212536708b8fb63cf22ba665f7029b/img/Welcome%20-%20Github.png)
 
-![Divider](https://imgur.com/a/NxN3MzR)
+![Divider](https://github.com/milentijev1c/milentijev1c/blob/5f9a4bdb3091d86f494df725fa3a6c08cec59b4a/img/About%20me%20-%20Github.png)
 
-![Divider](https://imgur.com/a/EvwVylp)
+![Divider](https://github.com/milentijev1c/milentijev1c/blob/5f9a4bdb3091d86f494df725fa3a6c08cec59b4a/img/My%20public%20repos%20-%20Github.png)
 
 
 *f - finished, uf - unfinished, m - mature, s - stable*<br/><br/>
