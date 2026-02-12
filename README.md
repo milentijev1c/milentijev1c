@@ -17,7 +17,7 @@ I have a lot of hobbies to be honest, but the main ones are home-labbing, graphi
 ![Divider](https://github.com/milentijev1c/milentijev1c/blob/d644587508ce8874d346f78fae5ae008e5b36f08/img/Line%20-%20Github.png)
 
 <details>
-  <summary><i>le footer</i></summary>
+  <summary><i>le footer</i></summary><br/><br/>
   
    *Github* > uhh.. <br/>
    *Mail* >  [at]  <br/>
