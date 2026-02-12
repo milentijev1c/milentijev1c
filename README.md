@@ -20,7 +20,7 @@ I have a lot of hobbies to be honest, but the main ones are home-labbing, graphi
   <summary><i>le footer</i></summary><br/><br/>
   
    *Github* > uhh.. <br/>
-   *Mail* >  [at]  <br/>
+   *Mail* > danilo [at] milentijevic.net <br/>
    *Site* > <i>non-existent rn ;)</i> <br/><br/>
   
    *All graphics on this profile are made by me.*
