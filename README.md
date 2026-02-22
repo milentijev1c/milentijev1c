@@ -21,7 +21,7 @@ I have a lot of hobbies to be honest, but the main ones are home-labbing, graphi
   
    *Github* > uhh.. <br/>
    *Mail* > danilo [at] milentijevic.net <br/>
-   *Site* > <i>non-existent rn ;)</i> <br/><br/>
+   *Site* > <i>https://milentijevic.net</i> <br/><br/>
   
    *All graphics on this profile are made by me.*
 </details>
