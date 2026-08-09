@@ -5,7 +5,7 @@ I currently own <i>nothing</i>. Software Engineer, working on something serious!
 I have a lot of hobbies to be honest, but the main ones are home-labbing, graphics design and mountain biking..
 
 ![Divider](https://github.com/milentijev1c/milentijev1c/blob/5f9a4bdb3091d86f494df725fa3a6c08cec59b4a/img/My%20public%20repos%20-%20Github.png)
-**elektronski-dnevnik** [ *l* ] is a school gradebook, enabling teachers and students to easily access grades, absences, and notes.
+**elektronski-dnevnik** [ *l* ] is a school gradebook, enabling teachers and students to easily access grades, absences, and notes. <br/>
 **locksmith** [ *f* ] is a Serbian ID card middleware, enabling users to read card data and digitally sign PDFs via a local web interface.
 
 
